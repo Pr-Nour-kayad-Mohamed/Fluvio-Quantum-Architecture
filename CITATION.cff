@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this Fluvio-Quantum Architecture, please cite it using these metadata - DOI: 10.5281/zenodo.23677829"
+title: "GLOBAL TECHNICAL DOCUMENTATION: FLUVIO-QUANTUM ANALOG-VORTICAL ARCHITECTURE - v1.0 FINAL - From Subatomic Processor to Macroscopic Infrastructure Homeostasis"
+version: v1.0-FINAL
+doi: 10.5281/zenodo.23677829
+date-released: 2026-10-27
+license: MIT
+repository-code: https://github.com/Pr-Nour-kayad-Mohamed/Fluvio-Quantum-Architecture
+url: https://doi.org/10.5281/zenodo.23677829
+abstract: "Continuum informationnel multi-échelle fusionnant calcul, topologie et dissipation thermodynamique quantique. 5 Chapitres, 17 Sections, 6 Blueprints SIL-4 Frama-C SCCI-2026. Paradigme: One Generating Field. Many Dynamic States. One Identity. Validated Id=0 foundation by Igor Kolesnikov FWA/FVA Y-Shape, Loss Cone coupling by Koki Sakamoto PIC-PLASMA 3D, Delta S=-kB ln2 Delta I by Olivier Denis HCU, and anti damage-patch culture by David Robinson. V_BHK Lyapunov, Loss Cone Rm=Bmax/Bmin theta_c=arcsin(1/sqrt(Rm)), LOCK=det<=0 OR R!=600kΩ."
+keywords:
+    - fluvic
+    - quantum hydrodynamics
+    - madelung
+    - bohm potential
+    - strange metals
+    - kagome lattice
+    - y-shaped baryon junction
+    - loss cone
+    - frama-c
+    - scci-2026
+    - gradient flow
+    - sil-4
+    - id=0
+    - djibouti
+authors:
+    - family-names: Kayad
+    given-names: Mohamed Nour
+    affiliation: Directeur de Recherche - Djibouti
+    orcid: https://orcid.org/0000-0000-0000-0000
+references:
+    - type: software
+    title: "Fluvio-Quantum Architecture Concept DOI"
+    doi: 10.5281/zenodo.21184244
+    url: https://doi.org/10.5281/zenodo.21184244
